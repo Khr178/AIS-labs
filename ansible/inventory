@@ -1,0 +1,2 @@
+[remote]
+192.168.100.4 ansible_user=kopeika ansible_ssh_private_key_file=/home/kopeikakhrystyna/.ssh/id_rsa
